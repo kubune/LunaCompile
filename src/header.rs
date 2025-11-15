@@ -1,4 +1,3 @@
-
 #[derive(serde::Deserialize)]
 pub struct HeaderData {
     pub id: String,

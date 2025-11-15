@@ -1,5 +1,3 @@
-
-
 pub struct Encrypter;
 impl Encrypter {
     pub fn encrypt_xor_str(input: &str, key: &[u8]) -> String {

@@ -1,7 +1,5 @@
 use crate::{byte_stream::ByteStream, globals::Globals};
 
-
-
 pub struct LunaCompile;
 
 impl LunaCompile {
